@@ -1,4 +1,3 @@
-streamlit
-google.generativeai
-os
-dotenv
+streamlit==1.32.2
+python-dotenv==1.0.1
+google-generativeai==0.4.1

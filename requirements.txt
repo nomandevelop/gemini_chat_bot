@@ -1,4 +1,4 @@
 streamlit
 google.generativeai
 os
-python-dotenv
+dotenv

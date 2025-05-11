@@ -53,6 +53,7 @@ def initialize_gemini_model(model_name="models/gemini-1.5-flash-latest"):
         return None
 
 # --- Streamlit UI ---
+st.title(" Made By Noman")
 st.title(" Gemini Chatbot")
 st.caption("A Streamlit interface for Google's Gemini Pro")
 

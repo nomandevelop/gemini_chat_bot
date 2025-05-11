@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 
 # load_dotenv("fun_load2.env") 
-API_KEY = st.secrets["OPENROUTER_API_KEY"]
+API_KEY = st.secrets["GOOGLE_API_KEY"]
 
 # --- Page Configuration (must be the first Streamlit command) ---
 st.set_page_config(
